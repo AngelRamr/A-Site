@@ -1,3 +1,6 @@
+# Build settings
+markdown: Kramdown
+theme: minima
 <!DOCTYPE html>
 <html>
 <head>
