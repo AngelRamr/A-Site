@@ -1,1 +1,2 @@
-# Screaming
+markdown: kramdown
+theme: minima
