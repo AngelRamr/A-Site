@@ -4,12 +4,27 @@
 
 ![Image](src)
 ### Common form of distribution
-
-Github![Link](src)
+Github
+![Link](src)
 ## Languages I Know
 ![Image](src)
 ### Python
+- Common uses
+
+- Why I learned it
+
+- Syntax
 
 ### C++
+- Common uses
+
+- Why I learned it
+
+- Syntax
 
 ### HTML
+- Common uses
+
+- Why I learned it
+
+- Syntax
