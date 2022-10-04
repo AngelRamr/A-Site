@@ -2,6 +2,7 @@
 ## How Computer Languages Work
 ### Compilers
 compilers take programing languases code and translate to machine code which is why syntax is important
+
 ![Image](dfq.png)
 ### Common form of distribution
 a common way to distribut code is through Github![Link](https://github.com/AngelRamr/A-Site)
