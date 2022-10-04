@@ -5,7 +5,7 @@ compilers take programing languases code and translate to machine code which is 
 
 ![Image](dfq.png)
 ### Common form of distribution
-a common way to distribut code is through Github![Link](https://github.com/AngelRamr/A-Site)
+a common way to distribut code is through Github [Link](https://github.com/AngelRamr/A-Site)
 ## Languages I Know
 - Python
 - C#
